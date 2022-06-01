@@ -7,6 +7,7 @@ I'm  **Evaldo Júnior**, Computer Science student, iOS Developer and UI/UX lover
 - 💚 iOS Developer at [**Westwing Brasil**](https://www.instagram.com/westwingbr/?hl=pt)
 - 🧑🏻‍💻  Alumni at [**Apple Developer Academy | UFPE**](https://www.developeracademy.cin.ufpe.br)
 - 🧠 I'm currently learning more about **UI/UX, SwiftUI, RxSwift and web technologies**
+- 📲 You can download some of my apps on [**App Store**](https://apps.apple.com/us/developer/evaldo-garcia-de-souza-junior/id1530488429)
 - ⚡ Fun fact: I don't like **coffee** ☕️🤪
 
 <br />
