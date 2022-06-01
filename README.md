@@ -4,8 +4,9 @@ I'm  **Evaldo Júnior**, Computer Science student, iOS Developer and UI/UX lover
 
 - ✨ Pronouns: **he/him**
 - 🖥 Computer Science student at **Federal University of Pernambuco** 
-- 🧑🏻‍💻 iOS Developer at [**Apple Developer Academy | UFPE**](https://www.developeracademy.cin.ufpe.br)
-- 🧠 I'm currently learning more about **UI/UX, SwiftUI and web technologies**
+- 💚 iOS Developer at [**Westwing Brasil**](https://www.instagram.com/westwingbr/?hl=pt)
+- 🧑🏻‍💻  Alumni at [**Apple Developer Academy | UFPE**](https://www.developeracademy.cin.ufpe.br)
+- 🧠 I'm currently learning more about **UI/UX, SwiftUI, RxSwift and web technologies**
 - ⚡ Fun fact: I don't like **coffee** ☕️🤪
 
 <br />
@@ -13,6 +14,7 @@ I'm  **Evaldo Júnior**, Computer Science student, iOS Developer and UI/UX lover
 ## Find me!
 <i> I'm working on my website. So you can find me here: </i>
 
+[![Linkedin](https://img.shields.io/badge/Evaldo%20Júnior-232323?style=for-the-badge&logo=appstore&logoColor=F5F5F5)](https://apps.apple.com/us/developer/evaldo-garcia-de-souza-junior/id1530488429)
 [![Linkedin](https://img.shields.io/badge/Evaldo%20Júnior-232323?style=for-the-badge&logo=linkedin&logoColor=F5F5F5)](https://www.linkedin.com/in/evalldojunior/)
 [![Instagram](https://img.shields.io/badge/@evalldojunior-232323?style=for-the-badge&logo=instagram&logoColor=F5F5F5)](https://www.instagram.com/evalldojunior/)
 
