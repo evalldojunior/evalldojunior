@@ -1,9 +1,9 @@
 ## Hi, there! 🤙👋🌈
 
-I'm  **Evaldo Júnior**, Computer Science student, iOS Developer and UI/UX lover.
+I'm  **Evaldo Júnior**, iOS Developer and UI/UX lover.
 
 - ✨ Pronouns: **he/him**
-- 🖥 Computer Science student at **Federal University of Pernambuco** 
+- 🖥 Bachelor of Computer Science from **Federal University of Pernambuco** 
 - 💚 iOS Developer at [**Westwing Brasil**](https://www.instagram.com/westwingbr/?hl=pt)
 - 🧑🏻‍💻  Alumni at [**Apple Developer Academy | UFPE**](https://www.developeracademy.cin.ufpe.br)
 - 🧠 I'm currently learning more about **UI/UX, SwiftUI, RxSwift and web technologies**
